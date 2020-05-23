@@ -1,0 +1,61 @@
+[
+  {
+    "id": 0,
+    "curso": "Base de Datos Mysql desde cero",
+    "autor": "Udemy",
+    "categoria": "Base de Datos",
+    "peso": "1.79 GB",
+    "imagen": "mysql.gif",
+    "descripcion": "Conceptos básicos de Mysql, Teoría y ejemplos básicos. Ideal para principiantes en BD Mysql.",
+    "link": "https://mega.nz/folder/klEzFA6S#YzatPiIjaPiC0IqV1SNeOQ"
+  },
+  {
+    "id": 1,
+    "curso": "Base de Datos Microsoft SQL Server",
+    "autor": "Udemy",
+    "categoria": "Base de Datos",
+    "peso": "1.79 GB",
+    "imagen": "sql-server.png",
+    "descripcion": "Conceptos básicos de Microsoft SQL Server, Teoría y ejemplos básicos. Contenido: Introducción, consultas básicas, creación de base de datos, funciones, JOINS, Stored Procedure, Triggers, Views.",
+    "link": "https://mega.nz/folder/FsdFFKCB#7lxNpOGfxVxFqgn89oFAtw"
+  },
+  {
+    "id": 2,
+    "curso": "Base de Datos PostgreSQL",
+    "autor": "Udemy",
+    "categoria": "Base de Datos",
+    "peso": "3.17 GB",
+    "imagen": "postgresql.png",
+    "descripcion": "Conceptos básicos de PostgreSQL, Teoría y ejemplos básicos.",
+    "link": "https://mega.nz/folder/UgkhFIwQ#_56gUP_9Cdah1u0vQmh75g"
+  },
+  {
+    "id": 3,
+    "curso": "Base de Datos desde 0 EDTEAM",
+    "autor": "EDTEAM",
+    "categoria": "Base de Datos",
+    "peso": "4.37 GB",
+    "imagen": "mysql.gif",
+    "descripcion": "Conceptos básicos de Mysql, Teoría y ejemplos básicos. Ideal para principiantes en BD Mysql.",
+    "link": "https://mega.nz/folder/5xVT2AbT#ha2o4Jlvm-vmJ5Wttat9Vg"
+  },
+  {
+    "id": 4,
+    "curso": "Libros de Programación",
+    "autor": "Varios",
+    "categoria": "Libros",
+    "peso": "4.37 GB",
+    "imagen": "libros.jpg",
+    "descripcion": "Libros de Arduino, C, C++, CSS, Desarrollo Web, Estructura de Datos, HTML,JavaScript, Java, PHP, Machine Learning y más",
+    "link": "https://mega.nz/folder/FkM3EQoJ#FCyLIZg8NyHQXgnwOQS0yA"
+  },{
+    "id": 5,
+    "curso": "Base de Datos Oracle",
+    "autor": "Udemy",
+    "categoria": "Base de Datos",
+    "peso": "826.6 MB",
+    "imagen": "bdoracle.png",
+    "descripcion": "Conceptos básicos y práctica. Contenido: Sentencias select, filtrar datos, funciones sql, funciones de grupo, mostrar datos de múltiples tablas, subconsultas, operadores de conjunto, manipulación de datos, sentencias DDL y más.",
+    "link": "https://mega.nz/folder/5hMTVKiC#cM3gkCdvj7NgIdAuCGwpyw"
+  }
+]
